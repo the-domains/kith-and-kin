@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ecstasy in Distopia]]></title>
         <description><![CDATA[Ecstasy in Distopia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kith-and-kin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 18:02:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 14 Jun 2016 18:05:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kith-and-kin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://www.facebook.com/events/1034008443313027/?ti=icl</p>]]></description>
-            <link>undefinedhttpswwwfacebookcomevents1034008443313027tiicl/index.html</link>
+            <link>https://thegrid.ai/kith-and-kin/httpswwwfacebookcomevents1034008443313027tiicl/index.html</link>
+            <guid isPermaLink="false">16930c59-4b96-4a08-a00f-18b19479d09e</guid>
+            <pubDate>Tue, 14 Jun 2016 18:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.facebook.com/events/1034008443313027/?ti=icl</p>]]></description>
+            <link>https://thegrid.ai/kith-and-kin/httpswwwfacebookcomevents1034008443313027tiicl/index.html</link>
             <guid isPermaLink="false">d94a4869-21d8-4c9b-a77c-3453365eb22c</guid>
             <pubDate>Tue, 14 Jun 2016 18:02:02 GMT</pubDate>
         </item>
